@@ -9,4 +9,12 @@ Además, también tengo experiencia en liderar equipos de desarrollo de software
 
 En este perfil de GitHub, encontrarás algunos de mis proyectos personales y contribuciones a proyectos de código abierto. Siéntete libre de explorarlos y dejarme comentarios o sugerencias si tienes alguna.
 
+
+###  Proyectos
+
+* [ ` ` ]
+
+
+
+
 ¡Gracias por visitar mi perfil!
